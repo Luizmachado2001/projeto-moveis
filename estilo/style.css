@@ -8,12 +8,20 @@
     font-family: "Open Sans";
 }
 
+section{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
 .container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 10px 30px;
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid red;
 }
 
 .inter {
@@ -26,7 +34,8 @@
     font-size: 14px;
     font-weight: 700;
     padding: 14px 15px;
-    width: 800px;
+    /* width: 800px; */
+    text-align: center;
 }
 
 .container-conteudo{
