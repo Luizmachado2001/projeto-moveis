@@ -4,5 +4,12 @@
         flex-direction: column;
         width: 100%;
     }
-
+    main {
+        margin-bottom: 1rem;
+    }
+    footer .linha {
+        border-bottom: 1px solid #ECEFF2;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
 }

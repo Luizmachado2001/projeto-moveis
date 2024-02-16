@@ -67,7 +67,7 @@ footer {
 
 
 footer .linha {
-    border-bottom: 0.1px solid #ECEFF2;
+    border-bottom: 1px solid #ECEFF2;
     width: 30%;
     margin-bottom: 1rem;
 }
