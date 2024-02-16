@@ -26,6 +26,11 @@
     font-size: 14px;
     font-weight: 700;
     padding: 14px 15px;
+    width: 800px;
+}
+
+.container-conteudo{
+    margin-bottom: 2rem;
 }
 
 .container-filho{
